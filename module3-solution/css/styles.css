@@ -49,6 +49,7 @@ body{
   font-size: 1.4em;
   margin-top: 20px;
   margin-bottom: 30px;
+  font-weight: bold;
 }
 #main-content.container-fluid{
   margin-left: 20px;
