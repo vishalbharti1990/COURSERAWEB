@@ -27,7 +27,7 @@ body{
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Arial', sans-serif;
   color: black;
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 0;
@@ -46,7 +46,8 @@ body{
   margin-bottom: 10px;
 }
 #menu{
-  margin-top: 15px;
+  font-size: 1.4em;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 #main-content.container-fluid{
