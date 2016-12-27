@@ -61,7 +61,7 @@ body{
 }
 .row > div{
   background-color: gray;
-  height: 1000px;
+  min-height: 1000px;
 }
 #main-content.container-fluid{
   margin-left: 20px;
@@ -83,8 +83,5 @@ body{
   }
   #header-nav.container-fluid{
     margin-bottom: 0;
-  }
-  .row > div{
-    height: 2000px;
   }
 }
